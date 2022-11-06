@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Chumzy01
-- 👀 I’m interested in working for an AAA game company...
-- 🌱 I’m currently into webdev and gamedev ...
-- 💞️ I’m looking to collaborate on an open world game ...
-- 📫 How to reach me okonchu40@gmail.com...
-
-<!---
-Chumzy01/Chumzy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Chuks.
+Here, I'll be dropping some free Unity C# scripts for gameplay.
+These codes are available for everyone to make work easier and faster.
